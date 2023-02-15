@@ -1,0 +1,85 @@
+#contenedor{
+    margin-top: 20px;
+
+  }
+  #imagen{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+  }
+  #imagen2{
+    height: 50%;
+    width:  50%;
+
+  }
+  hr{
+      width: 100%;
+      color: black;
+      height: 10px;
+  }
+  #lista_iconos{
+      list-style: none;
+
+
+  }
+  #h3{
+      margin-left: 16px;
+      padding-left: 18px;
+      margin-bottom: 20px;
+  }
+  h4{
+      display: inline-flex;
+  
+  }
+  h3{
+      display: inline-flex;
+  
+  }
+  .icon{
+      display: inline-block;
+      width: 30px;
+      font-size: 18px;
+      color: white;
+  }
+  .icon2{
+      display: inline-block;
+      width: 5px;
+      font-size: 45px;
+      color: white;
+  }
+  .icon3{
+      margin-left: 5px;
+      
+      width: 5px;
+      font-size: 15px;
+      color: red;
+  }
+  #lista{
+      margin-left: 6px;
+      padding-left: 8px;
+      margin-bottom: 20px;
+  }
+  #hobby{
+      margin-left: 23px;
+      margin-right: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+      margin-bottom: 20px;
+      display: inline;
+  }
+  #encabezado{
+      width: 100%;
+  }
+  .progress{
+      margin-top: 10px;
+      margin-bottom: 10px;
+  }
+  #exp{
+      list-style: none;
+  }
+  #titulo{
+    margin-left: 15px ;
+  }
+  #click{
+    margin-left: 125px;
+  }
